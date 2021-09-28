@@ -36,7 +36,7 @@
 <ul>
   <li> 🇧🇷 I’m from Brazil</li>
   <li> 📍 I live in Rio de Janeiro </li>    
-  <li> 🔭 I’m currently working on "Physics and Music Project" at UERJ</li>
+  <li> 🔭 I’m currently working on "Physics and Music Project" a</li>
   <li> 🌱 I’m currently learning Python </li>
   <li> 🎓 I do my graduation at UERJ</li>
 </ul>
@@ -46,7 +46,7 @@
   
   
 <div>  
-  <a href = "mailto:goncalves_jose@outlook.com"><img src="https://img.shields.io/badge/-Gmail-E6E6FA?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "mailto:goncalves_jose@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-E6E6FA?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href=https://www.instagram.com/jos_gcj target="_blank"> <img src="https://img.shields.io/badge/Instagram-808080?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://github.com/jos-g/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
