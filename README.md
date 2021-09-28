@@ -36,8 +36,8 @@
 <ul>
   <li> 🇧🇷 I’m from Brazil</li>
   <li> 📍 I live in Rio de Janeiro </li>    
-  <li> 🔭 I’m currently working on ""</li>
-  <li> 🌱 I’m currently learning python and .. </li>
+  <li> 🔭 I’m currently working on "Physics and Music Project" at UERJ</li>
+  <li> 🌱 I’m currently learning Python </li>
   <li> 🎓 I do my graduation at UERJ</li>
 </ul>
 <div>
