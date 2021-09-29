@@ -28,9 +28,9 @@
 
 <div style="display: inline_block"><br>
  
-  <img align="center" alt="DV-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <img align="center" alt="jos-g_Py" height="30" width="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">  
  
-  <img align="center" alt="DV-fortran" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg">  
+  <img align="center" alt="jos-g_Fr" height="30" width="40" src="http://xyne.archlinux.ca/img/arch_linux_programming_language_logos/arch-fortran_logo.png">  
   
 <h3>## 🙋‍♂️ About Me</h3>
 <br/>
