@@ -30,7 +30,7 @@
  
   <img align="center" alt="jos-g_Py" height="30" width="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">  
  
-  <img align="center" alt="jos-g_Fr" height="30" width="40" src="http://xyne.archlinux.ca/img/arch_linux_programming_language_logos/arch-fortran_logo.png">  
+  <img align="center" alt="jos-g_Fr" height="30" width="40" src="https://raw.githubusercontent.com/librariesio/pictogram/master/vendor/assets/images/fortran/fortran.png">  
   
 <h3>## 🙋‍♂️ About Me</h3>
 <br/>
