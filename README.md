@@ -32,7 +32,7 @@
  
   <img align="center" alt="jos-g_Fr" height="30" width="40" src="https://raw.githubusercontent.com/librariesio/pictogram/master/vendor/assets/images/fortran/fortran.png">  
     
-    <img align="center" alt="jos-g_Tex" height="30" width="40" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_tex.svg">  
+    <img align="center" alt="jos-g_Tex" height="30" width="40" src="https://user-images.githubusercontent.com/5700795/49007377-3bac3d00-f163-11e8-8172-cdad5fde4c8c.png">  
   
 <h3>## 🙋‍♂️ About Me</h3>
 <br/>
