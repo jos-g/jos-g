@@ -31,6 +31,8 @@
   <img align="center" alt="jos-g_Py" height="30" width="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">  
  
   <img align="center" alt="jos-g_Fr" height="30" width="40" src="https://raw.githubusercontent.com/librariesio/pictogram/master/vendor/assets/images/fortran/fortran.png">  
+    
+    <img align="center" alt="jos-g_Tex" height="30" width="40" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_tex.svg">  
   
 <h3>## 🙋‍♂️ About Me</h3>
 <br/>
