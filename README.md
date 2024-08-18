@@ -39,7 +39,7 @@
 <ul>
   <li> 🇧🇷 I’m from Brazil</li>
   <li> 📍 I live in Rio de Janeiro </li>    
-  <li> 🔭 I’m currently working on "Physics and Music Project" </li>
+  <li> 🔭 I’m currently working in stellar astrophysics at Observatório Nacional </li>
   <li> 🌱 I’m currently learning Python and LaTeX. </li>
   <li> 🎓 I do my graduation at UERJ</li>
 </ul>
